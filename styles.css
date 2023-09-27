@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(209, 236, 255);
+}
+.titulo h1{
+    background: rgba(0, 0, 0, 0.274);
+    padding: 10px;
+    text-align: center;
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.titulo h3{
+    text-align: center;
+    letter-spacing: 1px;
+}
+.bio h2{
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.274);
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.historia{
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.274);
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.guerra h3{
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.274);
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
+.Premiacion h2{
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.274);
+    letter-spacing: 1px;
+    border-radius: 10px;
+}
